@@ -1,0 +1,12 @@
+# Site settings
+title: GZ
+email: gavenaazll@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  It is at our mother's knee that we acquire our noblest and truest and highest , but there is seldom any money in them.
+# baseurl: "/clean" # the subpath of your site, e.g. /blog/
+url: "http://gavinzll.github.io" # the base hostname & protocol for your site
+twitter_username: NO.
+github_username:  Gavin
+
+# Build settings
+markdown: kramdown
